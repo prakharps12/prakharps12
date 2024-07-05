@@ -3,7 +3,7 @@
 
 <table>
 <tr>
-<th> About Me 🤩 </th>
+<th> About Me </th>
 <!-- <th> My GitPet! </th> -->
 </tr>
 <tr>
@@ -24,7 +24,6 @@
 </td>
 <td>
 
-  <!--
   
   <picture style="width=20%;">
   <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=prakharps12&petname=Jack&theme=dark&species=wolf">
@@ -32,7 +31,7 @@
   <img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?username=prakharps12&petname=Jack&theme=dark&species=wolf" width="200px">
 </picture>
 
--->
+
 
 </td>
 </tr>
