@@ -1,4 +1,4 @@
-<!-- ## Hi there 👋 -->
+<!-- ## Hi there 👋 
 <h2 align="center">Hi there 👋, It's Prakhar</h2>
 
 <table>
@@ -37,6 +37,7 @@
 </tr>
 </table>
 
+-->
 
 <!--
 **prakharps12/prakharps12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
