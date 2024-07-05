@@ -4,7 +4,7 @@
 <table>
 <tr>
 <th> About Me </th>
-<!-- <th> My GitPet! </th> -->
+<th> My GitPet! </th> 
 </tr>
 <tr>
 <td>
